@@ -14,7 +14,7 @@
  
  🌱 I’m currently mastering **Python, Django, SQL, and AI development**
  
-💬 Ask me about **Python, Django, General AI development... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, Django, General AI development... or anything [here](https://github.com/ANANDAPADMANABHA/ANANDAPADMANABHA/issues)**
 
 ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
