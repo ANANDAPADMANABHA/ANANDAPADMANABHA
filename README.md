@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,django,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=ai,machine-learning,artificial-intelligence,neural-network,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=ai,machine-learning,neural-network,c,java,mysql" /><br>
 </div>
 
 <br/>
